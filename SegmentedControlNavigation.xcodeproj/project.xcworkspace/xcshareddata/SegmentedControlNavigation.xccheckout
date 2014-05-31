@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8D691F8A-4B14-4A54-BA30-29873882A08C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SegmentedControlNavigation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4A9C6F42-5604-4941-9EC9-4E63D76A6B9F</key>
+		<string>https://github.com/JeOam/SegmentedControlNavigationDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SegmentedControlNavigation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4A9C6F42-5604-4941-9EC9-4E63D76A6B9F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JeOam/SegmentedControlNavigationDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4A9C6F42-5604-4941-9EC9-4E63D76A6B9F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4A9C6F42-5604-4941-9EC9-4E63D76A6B9F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SegmentedControlNavigationDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
